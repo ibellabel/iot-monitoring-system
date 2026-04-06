@@ -6,7 +6,7 @@ import sys
 from datetime import datetime
 
 # ─── Configuración ─────────────────────────────────────────────
-SERVER_HOST = "localhost"   # Cambiar por el dominio DNS de AWS
+SERVER_HOST = "ec2-3-239-93-80.compute-1.amazonaws.com"   # Cambiar por el dominio DNS de AWS
 SERVER_PORT = 9000
 
 class OperadorApp:
